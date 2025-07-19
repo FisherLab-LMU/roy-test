@@ -9,7 +9,7 @@ about-featured-image: cbd0005
 # set background-position for featured image, "center", "top", "bottom"
 position: bottom
 # major heading to display over featured image
-heading: About the Collection
+heading: Digital Archive for the Church of the Beloved Disciple
 # paragraph text below heading in featured image
 sub-heading: Fisher Digital Humanities Lab, Loyola Marymount University
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
@@ -20,7 +20,7 @@ padding: 6em
 
 ## About The Church of the Beloved Digital Archive
 
-This digital archive features items from the Robert Mary Clement papers collection curated by the Fisher Digital Humanities Lab [Fisher Lab](https://bellarmine.lmu.edu/jewishstudies/faculty/?expert=roy.fisher), and is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This digital archive features items from the Robert Mary Clement papers collection curated by the [Fisher Digital Humanities Lab](https://bellarmine.lmu.edu/jewishstudies/faculty/?expert=roy.fisher), and is built using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
 
 [CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
 See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
