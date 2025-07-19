@@ -18,16 +18,16 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CBD Test
+title: Church of the Beloved Disciple Archive Test Site
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Online Archive for the Church of the Beloved Disciple in NYC (ca. 1970-1986)
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "An open-access digital archive documenting the story of the Church of the Beloved Disciple in NYC."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: Church of the Beloved Disciple; Robert Mary Clement; John Darcy Noble; queer spirituality
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: FisherLab at LMU
 
 ##########
 # COLLECTION SETTINGS
@@ -50,10 +50,10 @@ metadata: CBD
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "Fisher Digital Humanities Lab at Loyola Marymount University"
+organization-link: https://bellarmine.lmu.edu/jewishstudies/faculty/?expert=roy.fisher
+organization-logo-banner: https://media-speakerfile-pre.s3.amazonaws.com/images_avatars/3afacc2e-33f5-4ee0-8fe5-a172c4462b2a_l.jpg
+organization-logo-nav: https://media-speakerfile-pre.s3.amazonaws.com/images_avatars/3afacc2e-33f5-4ee0-8fe5-a172c4462b2a_l.jpg
 
 ##########
 # ROBOTS EXCLUDE
