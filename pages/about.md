@@ -9,7 +9,7 @@ about-featured-image: cbd0005
 # set background-position for featured image, "center", "top", "bottom"
 position: bottom
 # major heading to display over featured image
-heading: Digital Archive for the Church of the Beloved Disciple
+heading: Church of the Beloved Disciple NYC Digital Archive
 # paragraph text below heading in featured image
 sub-heading: Fisher Digital Humanities Lab, Loyola Marymount University
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
