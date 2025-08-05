@@ -52,8 +52,8 @@ metadata: CBD
 #
 organization-name: "Fisher Digital Humanities Lab at Loyola Marymount University"
 organization-link: https://bellarmine.lmu.edu/theologicalstudies/faculty/?expert=roy.fisher
-organization-logo-banner: https://www.uc3m.es/ss/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1371568977772&ssbinary=true 
-organization-logo-nav: https://www.uc3m.es/ss/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1371568977772&ssbinary=true
+organization-logo-banner: http://d2osek5pf4af91.cloudfront.net/archive_objects/ephemera/logo.png
+organization-logo-nav: http://d2osek5pf4af91.cloudfront.net/archive_objects/ephemera/logo.png
 
 ##########
 # ROBOTS EXCLUDE
